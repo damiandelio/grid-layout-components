@@ -1,0 +1,30 @@
+{
+  "name": "grid-layout-components",
+  "version": "1.0.0",
+  "description": "Grid for react based on css grid layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiandelio/grid-layout-components.git"
+  },
+  "keywords": [
+    "css",
+    "grid",
+    "layout",
+    "components",
+    "react"
+  ],
+  "author": "Damián De Lio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damiandelio/grid-layout-components/issues"
+  },
+  "homepage": "https://github.com/damiandelio/grid-layout-components#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "styled-components": "^4.1.3"
+  }
+}
